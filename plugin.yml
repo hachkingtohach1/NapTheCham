@@ -1,0 +1,8 @@
+---
+name: NapTheCham
+version: 1.0.0_BETA
+author: DragoVN
+main: NapTheCham\Main
+description: Plugin nạp thẻ chậm dành cho phần mềm PMMP 
+api: ["3.0.0"]
+...           
